@@ -6,9 +6,7 @@ const experiences = [
     title: "native app devloper intern ",
     company: "Himalayantechnosoft.",
     period: "2026",
-    description: " 	Developed an ecommerce Mobile Applications In Flutter.
- 	Actively focused on implementing  an interactive ui .
-",
+    description: "Developed an ecommerce Mobile Application in Flutter. Actively focused on implementing an interactive UI.",
     highlights: ["Dart", "flutter", "ios", "Android"],
   },
  

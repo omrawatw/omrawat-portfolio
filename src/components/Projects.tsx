@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 const projects = [
   {
-    title: "AI-Powered Dashboard",
+    title: "Smart fire extinguisher",
     description:
       "The Smart Fire Extinguisher and Alert System is an IoT-based safety system designed to detect fire at an early stage, automatically activate a fire-extinguishing mechanism, and provide an alert to the user.",
     tech: ["iot ", "node mcu", "c++", "ardunio"],

@@ -5,9 +5,9 @@ const projects = [
   {
     title: "AI-Powered Dashboard",
     description:
-      "A comprehensive analytics dashboard with AI-driven insights, real-time data visualization, and predictive analytics features.",
-    tech: ["React", "TypeScript", "Python", "TensorFlow"],
-    image: null,
+      "The Smart Fire Extinguisher and Alert System is an IoT-based safety system designed to detect fire at an early stage, automatically activate a fire-extinguishing mechanism, and provide an alert to the user.",
+    tech: ["iot ", "node mcu", "c++", "ardunio"],
+    image: true,
     github: "#",
     live: "#",
     featured: true,
@@ -52,16 +52,7 @@ const projects = [
     live: "#",
     featured: false,
   },
-  {
-    title: "Portfolio Generator",
-    description:
-      "SaaS tool that helps developers create stunning portfolio websites with customizable templates.",
-    tech: ["Next.js", "Prisma", "PostgreSQL"],
-    image: null,
-    github: "#",
-    live: "#",
-    featured: false,
-  },
+  
 ];
 
 export const Projects = () => {

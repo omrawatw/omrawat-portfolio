@@ -3,7 +3,7 @@ import { Briefcase, GraduationCap } from "lucide-react";
 const experiences = [
   {
     type: "work",
-    title: "native app devloper intern",
+    title: "native app devloper intern ",
     company: "Himalayantechnosoft.",
     period: "2026",
     description: " 	Developed an ecommerce Mobile Applications In Flutter.

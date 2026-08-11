@@ -2,11 +2,11 @@ const skillCategories = [
   {
     title: "Frontend",
     skills: [
-      { name: "React", level: 95 },
-      { name: "TypeScript", level: 90 },
-      { name: "Next.js", level: 85 },
-      { name: "Tailwind CSS", level: 95 },
-      { name: "Vue.js", level: 75 },
+      { name: "flutter ", level: 95 },
+      { name: "html,", level: 90 },
+      { name: "xml", level: 85 },
+      { name: "dart", level: 95 },
+      { name: "kotlin", level: 75 },
     ],
   },
   {
@@ -23,10 +23,12 @@ const skillCategories = [
     title: "Tools & Others",
     skills: [
       { name: "Git & GitHub", level: 95 },
-      { name: "Docker", level: 80 },
-      { name: "AWS", level: 75 },
+      { name: "kali linux and tools ", level: 80 },
+      { name: "android,", level: 75 },
       { name: "Figma", level: 70 },
-      { name: "CI/CD", level: 80 },
+      { name: "unity", level: 80 },
+      { name: "ardunio", level: 80 },
+      { name: "vs code ", level: 80 },
     ],
   },
 ];

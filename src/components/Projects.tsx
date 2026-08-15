@@ -13,13 +13,13 @@ const projects = [
     featured: true,
   },
   {
-    title: "E-Commerce Platform",
+    title: "iot lab project management sys",
     description:
-      "Full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.",
-    tech: ["Next.js", "Node.js", "PostgreSQL", "Stripe"],
+      "Full-stack wensite used to manage iot lab project.",
+    tech: ["react","js/jsx", "vite", "PostgreSQL", "Supabase","cloudinary"],
     image: null,
     github: "#",
-    live: "#",
+    live: "https://omrawat.com",
     featured: true,
   },
   {
